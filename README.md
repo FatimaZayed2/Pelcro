@@ -1,4 +1,12 @@
 # Pelcro
+
+
+Email: admin@gmail.com
+password:123456789
+
+
+
+
 Software Engineer 1 Technical Assessment
 Points of evaluation
 - Laravel / PHP
